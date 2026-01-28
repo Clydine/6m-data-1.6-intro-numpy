@@ -3,8 +3,6 @@
 Total Duration: 3 hours  
 Environment: Google Colab or VS Code Jupyter
 
-This agenda follows the content and order in `notebooks/numpy.ipynb` so learners move through the notebook top-to-bottom.
-
 ---
 
 ## 0–10 min — Welcome & Outcomes
@@ -102,16 +100,11 @@ Notebook: Extend Part 3’s “Your code here” cell with simple tasks.[file:1]
 
 ---
 
-## 175–180 min — Wrap-up
+## 175–180 min — Wrap-up and Exit Ticket
 
 - Recap key skills tied directly to notebook sections:
   - Performance benchmark (Part 1)
   - ndarray basics: shape, dtype, ndim (Part 2)
   - Casting and basic dtypes (Data Types and Casting)
   - Simple arithmetic and the idea of broadcasting (Part 3, intro)
-- Point learners to:
-  - `pre-class.md` for environment refresh
-  - `post-class.md` for additional NumPy-only practice
-```
 
-This agenda stays strictly aligned with the current `numpy.ipynb` flow and can be extended later if you add more sections to the notebook. [github](https://github.com/su-ntu-ctp/6m-data-1.6-intro-numpy/blob/main/lesson.md)
